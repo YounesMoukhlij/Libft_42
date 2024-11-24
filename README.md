@@ -31,5 +31,3 @@ This library serves as a foundational toolkit for efficient and reusable code in
 Building **Libft** helps deepen understanding of core C concepts and enhances problem-solving skills. It’s not just a learning exercise but also a reliable companion for more complex projects.
 
 ---
-
-Feel free to modify this as needed!
