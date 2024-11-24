@@ -1,4 +1,3 @@
-Here is a suitable README description for your "Libft" project on GitHub:
 
 ---
 
